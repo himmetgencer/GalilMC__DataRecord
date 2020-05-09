@@ -1,2 +1,2 @@
 # GalilMC__DataRecord
-Data Record on Galil Motion Controller using LabVIEW
+Data Record on Galil Motion Controller using LabVIEW.
